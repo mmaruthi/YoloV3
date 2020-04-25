@@ -163,7 +163,6 @@
 ./data/customdata/images/a11_resized.jpg
 ./data/customdata/images/ma6_resized.jpg
 ./data/customdata/images/ma71_resized.jpg
-./data/customdata/images/6ir5dxgXT_resized.jpg
 ./data/customdata/images/im13_resized.jpg
 ./data/customdata/images/ma120_resized.jpg
 ./data/customdata/images/ma3_resized.jpg
